@@ -28,6 +28,6 @@ public class Main {
         customStack.push(1);
         customStack.pop();
         customStack.size();
-        cus.
+
     }
 }
